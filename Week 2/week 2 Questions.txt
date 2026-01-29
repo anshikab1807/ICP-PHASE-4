@@ -1,0 +1,31 @@
+                                                       week 2 Questions
+
+
+1) EASY Minimum String Length After Removing Substrings
+
+
+https://leetcode.com/problems/minimum-string-length-after-removing-substrings/submissions/1889549019
+----------------------------------------------------------------------------------------------------------------------------------
+
+2)EASY Make The String Great 
+
+
+https://leetcode.com/problems/make-the-string-great/submissions/1900582529
+----------------------------------------------------------------------------------------------------------------------------------
+
+3)MEDIUM  Sum of Subarray Minimums  
+
+
+https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1900594099
+----------------------------------------------------------------------------------------------------------------------------------
+4) HARD  Minimum Number of Increments on Subarrays to Form a Target Array
+
+
+https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/submissions/1900601502
+-----------------------------------------------------------------------------------------------------------------------------------
+
+5)HARD  Smallest K-Length Subsequence With Occurrences of a Letter.
+
+https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/submissions/1900614915
+
+------------------------------------------------------------------------------------------------------------------------------------------
