@@ -1,0 +1,31 @@
+                                                       week 4  Questions
+
+
+1)  Convert a Binary Number in a Linked List to an Integer
+
+
+https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/1905153760
+----------------------------------------------------------------------------------------------------------------------------------
+
+2) Delete the Middle Node of a Linked List
+
+
+https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/1906601298
+----------------------------------------------------------------------------------------------------------------------------------
+3)Double a Number Represented as a Linked List
+
+
+https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/submissions/1907595210
+-----------------------------------------------------------------------------------------------------------------------------------
+
+4)Steps to Make Array Non-decreasing  
+
+
+https://leetcode.com/problems/steps-to-make-array-non-decreasing/submissions/1910001788
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+5)  Next Greater Node In Linked List  
+ 
+
+https://leetcode.com/problems/next-greater-node-in-linked-list/submissions/1913115919
